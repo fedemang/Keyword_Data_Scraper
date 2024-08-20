@@ -1,0 +1,645 @@
+[
+  {
+    "nome": "Agrigento",
+    "sigla": "AG",
+    "regione": "Sicilia",
+    "giornale": ["agrigentonotizie", "lavalledeitempli", "agrigentoweb", "NaN", "NaN"]
+  },
+  {
+    "nome": "Alessandria",
+    "sigla": "AL",
+    "regione": "Piemonte",
+    "giornale": ["lavocealessandrina", "ilmonferrato", "vitacasalese", "NaN", "NaN"]
+  },
+  {
+    "nome": "Ancona",
+    "sigla": "AN",
+    "regione": "Marche",
+    "giornale": ["corriereadriatico", "anconanotizie", "vivereancona", "NaN", "NaN"]
+  },
+  {
+    "nome": "Arezzo",
+    "sigla": "AR",
+    "regione": "Toscana",
+    "giornale": ["valdichianaoggi", "lortica", "corrierediarezzo", "NaN", "NaN"]
+  },
+  {
+    "nome": "Ascoli Piceno",
+    "sigla": "AP",
+    "regione": "Marche",
+    "giornale": ["corriereadriatico", "corrieredelconero", "ascolinotizie", "NaN", "NaN"]
+  },
+  {
+    "nome": "Asti",
+    "sigla": "AT",
+    "regione": "Piemonte",
+    "giornale": ["astinotizie", "gazzettadasti", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "Avellino",
+    "sigla": "AV",
+    "regione": "Campania",
+    "giornale": ["gazzettadellirpinia", "gazzettadiavellino", "irpinianews", "NaN", "NaN"]
+  },
+  {
+    "nome": "Bari",
+    "sigla": "BA",
+    "regione": "Puglia",
+    "giornale": ["quotidianodibari", "barisera", "lagazzettadelmezzogiorno", "NaN", "NaN"]
+  },
+  {
+    "nome": "Barletta-Andria-Trani",
+    "sigla": "BT",
+    "regione": "Puglia",
+    "giornale": ["lagazzettadelmezzogiorno", "NaN", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "Belluno",
+    "sigla": "BL",
+    "regione": "Veneto",
+    "giornale": ["corrieredelveneto", "amicodelpopolo", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "Benevento",
+    "sigla": "BN",
+    "regione": "Campania",
+    "giornale": ["realtasannita", "ilquaderno", "voceamicapaduli", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Bergamo",
+    "sigla": "BG",
+    "regione": "Lombardia",
+    "giornale": ["ecodibergamo", "bergamonews", "bergamo", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Biella",
+    "sigla": "BI",
+    "regione": "Piemonte",
+    "giornale": ["ilbiellese", "quotidianopiemontese", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "Bologna",
+    "sigla": "BO",
+    "regione": "Emilia-Romagna",
+    "giornale": ["corriereromagna", "repubblica", "ilrestodelcarlino", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Bolzano/Bozen",
+    "sigla": "BZ",
+    "regione": "Trentino-Alto Adige/Südtirol",
+    "giornale": ["dolomiten", "NaN", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "Brescia",
+    "sigla": "BS",
+    "regione": "Lombardia",
+    "giornale": ["brescia2", "bresciaoggi", "gardanotizie", "giornaledibrescia", "NaN"] 
+  },
+  {
+    "nome": "Brindisi",
+    "sigla": "BR",
+    "regione": "Puglia",
+    "giornale": ["agendabrindisi", "brindisisera", "brindisioggi", "NaN", "NaN"]
+  },
+  {
+    "nome": "Cagliari",
+    "sigla": "CA",
+    "regione": "Sardegna",
+    "giornale": ["castedduonline", "lanuovasardegna", "sardegnaoggi", "NaN", "NaN"]
+  },
+  {
+    "nome": "Caltanissetta",
+    "sigla": "CL",
+    "regione": "Sicilia",
+    "giornale": ["ilfattonisseno", "giornalecittadinopress", "qds", "NaN", "NaN"]
+  },
+  {
+    "nome": "Campobasso",
+    "sigla": "CB",
+    "regione": "Molise",
+    "giornale": ["quotidianomolise", "ilgiornaledelmolise", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "Caserta",
+    "sigla": "CE",
+    "regione": "Campania",
+    "giornale": ["casertanews", "casertaweb", "corrieredicaserta", "NaN", "NaN"]
+
+  },
+  {
+    "nome": "Catania",
+    "sigla": "CT",
+    "regione": "Sicilia",
+    "giornale": ["cronacaoggiquotidiano", "cataniatoday", "catania.livesicilia", "NaN", "NaN"]     
+  },
+  {
+    "nome": "Catanzaro",
+    "sigla": "CZ",
+    "regione": "Calabria",
+    "giornale": ["quotidianodelsud", "catanzaroinforma", "ildomani", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Chieti",
+    "sigla": "CH",
+    "regione": "Abruzzo",
+    "giornale": ["ilgiornaledichieti", "chietitoday", "ilcentro", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Como",
+    "sigla": "CO",
+    "regione": "Lombardia",
+     "giornale": ["quicomo", "comocity", "corrieredicomo", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Cosenza",
+    "sigla": "CS",
+    "regione": "Calabria",
+    "giornale": ["quicosenza", "lavocecosentina", "quotidianodelsud", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Cremona",
+    "sigla": "CR",
+    "regione": "Lombardia",
+    "giornale": ["cremonaoggi", "laprovinciacr", "cremonanews", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Crotone",
+    "sigla": "KR",
+    "regione": "Calabria",
+    "giornale":  ["ilcrotonese", "crotonenews","NaN", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Cuneo",
+    "sigla": "CN",
+    "regione": "Piemonte",
+    "giornale": ["cuneodice", "cuneocronaca", "ilcarmagnolese", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Enna",
+    "sigla": "EN",
+    "regione": "Sicilia",
+    "giornale": ["ennanotizie", "vivienna", "enna.gds", "NaN", "NaN"]
+  },
+  {
+    "nome": "Fermo",
+    "sigla": "FM",
+    "regione": "Marche",
+    "giornale": ["laprovinciadifermo", "cronachefermane", "corriereadriatico", "NaN", "NaN"]
+  },
+  {
+    "nome": "Ferrara",
+    "sigla": "FE",
+    "regione": "Emilia-Romagna",
+    "giornale": ["estense", "lanuovaferrara", "ilrestodelcarlino", "NaN", "NaN"]
+  },
+  {
+    "nome": "Firenze",
+    "sigla": "FI",
+    "regione": "Toscana",
+    "giornale": ["ilgiornale", "lanazione", "firenzenews", "NaN", "NaN"]
+  },
+  {
+    "nome": "Foggia",
+    "sigla": "FG",
+    "regione": "Puglia",
+    "giornale": ["quotidianodifoggia", "foggiatoday", "ilcampanile", "linviato", "NaN"]
+  },
+  {
+    "nome": "Forlì-Cesena",
+    "sigla": "FC",
+    "regione": "Emilia-Romagna",
+    "giornale": ["ilrestodelcarlino", "forlitoday", "ilpopolano", "NaN", "NaN"]
+  },
+  {
+    "nome": "Frosinone",
+    "sigla": "FR",
+    "regione": "Lazio",
+    "giornale": ["ciociariaoggi", "frosinonetoday", "losservatore", "NaN", "NaN"]
+  },
+  {
+    "nome": "Genova",
+    "sigla": "GE",
+    "regione": "Liguria",
+    "giornale": ["ilsecoloxix", "ilgiornale", "liguriaoggi", "lavocedigenova", "NaN"]
+  },
+  {
+    "nome": "Gorizia",
+    "sigla": "GO",
+    "regione": "Friuli-Venezia Giulia",
+    "giornale": ["ilgazzettino", "ilpiccolo", "ilgoriziano", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Grosseto",
+    "sigla": "GR",
+    "regione": "Toscana",
+    "giornale": ["grossetonotizie", "ilgiunco", "iltirreno", "NaN", "NaN"]
+  },
+  {
+    "nome": "Imperia",
+    "sigla": "IM",
+    "regione": "Liguria",
+    "giornale": ["riviera24", "imperianews", "ilsecoloxix", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Isernia",
+    "sigla": "IS",
+    "regione": "Molise",
+    "giornale": ["isnews", "giornaledelmolise", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "L'Aquila",
+    "sigla": "AQ",
+    "regione": "Abruzzo",
+    "giornale": ["ilcapoluogo", "ilcentro", "improntalaquila", "NaN", "NaN"]  
+  },
+  {
+    "nome": "La Spezia",
+    "sigla": "SP",
+    "regione": "Liguria",
+    "giornale": ["cittadellaspezia", "lanazione", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "Latina",
+    "sigla": "LT",
+    "regione": "Lazio",
+    "giornale": ["latinaquotidiano", "opinione", "latinatoday", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Lecce",
+    "sigla": "LE",
+    "regione": "Puglia",
+    "giornale": ["lecceprima", "leccenews24", "corrieresalentino", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Lecco",
+    "sigla": "LC",
+    "regione": "Lombardia",
+    "giornale": ["laprovinciadilecco", "primalecco", "lecconotizie", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Livorno",
+    "sigla": "LI",
+    "regione": "Toscana",
+    "giornale": ["quilivorno", "iltelegrafolivorno", "iltirreno", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Lodi",
+    "sigla": "LO",
+    "regione": "Lombardia",
+    "giornale": ["cronachelodigiane", "lodiedintorni", "lodinotizie", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Lucca",
+    "sigla": "LU",
+    "regione": "Toscana",
+    "giornale": ["lavocedilucca", "luccanews", "gazzettalucchese", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Macerata",
+    "sigla": "MC",
+    "regione": "Marche",
+    "giornale": ["cronachemaceratesi", "viveremacerata", "NaN", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Mantova",
+    "sigla": "MN",
+    "regione": "Lombardia",
+    "giornale": ["gazzettadimantova", "voceapuana", "lanuovamantova", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Massa-Carrara",
+    "sigla": "MS",
+    "regione": "Toscana",
+    "giornale": ["gazzettadimassaecarrara", "mantovanotizie", "quinewsmassacarrara", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Matera",
+    "sigla": "MT",
+    "regione": "Basilicata",
+    "giornale": ["ilquotidianodellabasilicata", "sassilive", "giornaledibasilicata", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Messina",
+    "sigla": "ME",
+    "regione": "Sicilia",
+    "giornale": ["tempostretto", "messina.gazzettadelsud", "messinaoggi", "NaN", "NaN"]  
+  },
+  {
+    "nome": "Milano",
+    "sigla": "MI",
+    "regione": "Lombardia",
+    "giornale": ["corriere", "cronacamilano", "milanopost", "milanotoday", "gazzettadimilano"]  
+  },
+  {
+    "nome": "Modena",
+    "sigla": "MO",
+    "regione": "Emilia-Romagna",
+    "giornale": ["modena2000", "modenaonline", "ilrestodelcarlino", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Monza e della Brianza",
+    "sigla": "MB",
+    "regione": "Lombardia",
+    "giornale": ["primamonza", "ilgiornalone", "monzatoday", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Napoli",
+    "sigla": "NA",
+    "regione": "Campania",
+    "giornale": ["ilmattino", "napolitoday", "napolivillage", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Novara",
+    "sigla": "NO",
+    "regione": "Piemonte",
+    "giornale": ["primanovara", "lavocedinovara", "novara24news", "NaN", "NaN"]
+  },
+  {
+    "nome": "Nuoro",
+    "sigla": "NU",
+    "regione": "Sardegna",
+    "giornale": ["cronachenuoresi", "lanuovasardegna", "nuoronews", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Oristano",
+    "sigla": "OR",
+    "regione": "Sardegna",
+    "giornale": ["linkoristano", "ornews", "oristanonews", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Padova",
+    "sigla": "PD",
+    "regione": "Veneto",
+    "giornale": ["mattinopadova.gelocal", "padovaoggi", "padovanews", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Palermo",
+    "sigla": "PA",
+    "regione": "Sicilia",
+    "giornale": ["palermotoday", "gds", "palermoweb", "qds", "NaN"]
+  },
+  {
+    "nome": "Parma",
+    "sigla": "PR",
+    "regione": "Emilia-Romagna",
+    "giornale": ["parmadaily", "gazzettadiparma", "parmatoday", "ecodiparma", "NaN"]
+  },
+  {
+    "nome": "Pavia",
+    "sigla": "PV",
+    "regione": "Lombardia",
+    "giornale": ["giornaleilpuntopavese", "ilsettimanalepavese", "ilticino", "NaN", "NaN"]
+  },
+  {
+    "nome": "Perugia",
+    "sigla": "PG",
+    "regione": "Umbria",
+    "giornale": ["perugiatoday", "quotidianodellumbria", "umbriacronaca", "NaN","NaN"]
+  },
+  {
+    "nome": "Pesaro e Urbino",
+    "sigla": "PU",
+    "regione": "Marche",
+    "giornale": ["viverepesaro", "corriereadriatico", "pesarourbinonotizie", "NaN", "NaN"]
+  },
+  {
+    "nome": "Pescara",
+    "sigla": "PE",
+    "regione": "Abruzzo",
+    "giornale": ["ilpescara", "ilcentro", "odg.abruzzo", "NaN", "NaN"]
+  },
+  {
+    "nome": "Piacenza",
+    "sigla": "PC",
+    "regione": "Emilia-Romagna",
+    "giornale": ["ilpiacenza", "piacenzasera", "piacenza24", "NaN", "NaN"]
+  },
+  {
+    "nome": "Pisa",
+    "sigla": "PI",
+    "regione": "Toscana",
+    "giornale": ["pisatoday", "lanazione", "pisa24", "pisanotizie", "NaN"]
+  },
+  {
+    "nome": "Pistoia",
+    "sigla": "PT",
+    "regione": "Toscana",
+    "giornale": ["quinewspistoia", "reportpistoia", "valdinievoleoggi", "pistoiasette", "NaN"]
+  },
+  {
+    "nome": "Pordenone",
+    "sigla": "PN",
+    "regione": "Friuli-Venezia Giulia",
+    "giornale": ["pordenoneoggi", "pordenonetoday", "ilfriuli", "ilgazzettino", "NaN"]
+  },
+  {
+    "nome": "Potenza",
+    "sigla": "PZ",
+    "regione": "Basilicata",
+    "giornale": ["potenzanews", "basilicata24", "giornaledibasilicata", "NaN", "NaN"]
+  },
+  {
+    "nome": "Prato",
+    "sigla": "PO",
+    "regione": "Toscana",
+    "giornale": ["notiziediprato", "tvprato", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "Ragusa",
+    "sigla": "RG",
+    "regione": "Sicilia",
+    "giornale": ["ragusanews", "ragusaoggi", "corrierediragusa", "NaN", "NaN"]
+  },
+  {
+    "nome": "Ravenna",
+    "sigla": "RA",
+    "regione": "Emilia-Romagna",
+    "giornale": ["ravennatoday", "ravennanotizie", "romagnagazzette", "NaN", "NaN"]
+  },
+  {
+    "nome": "Reggio di Calabria",
+    "sigla": "RC",
+    "regione": "Calabria",
+    "giornale": ["newz", "reggiotoday", "gazzettadelsud", "strettoweb", "NaN"]
+  },
+  {
+    "nome": "Reggio nell'Emilia",
+    "sigla": "RE",
+    "regione": "Emilia-Romagna",
+    "giornale": ["reggionline", "gazzettadireggio", "NaN", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Rieti",
+    "sigla": "RI",
+    "regione": "Lazio",
+    "giornale": ["corrieredirieti", "frontierarieti", "rietivetrina", "NaN", "NaN"]
+  },
+  {
+    "nome": "Rimini",
+    "sigla": "RN",
+    "regione": "Emilia-Romagna",
+    "giornale": ["riminitoday", "lanazione", "ilrestodelcarlino", "NaN", "NaN"]
+  },
+  {
+    "nome": "Roma",
+    "sigla": "RM",
+    "regione": "Lazio",
+     "giornale": ["ilmessaggero", "romadailynews", "gazzettadiroma",  "romatoday", "repubblica"]
+  },
+  {
+    "nome": "Rovigo",
+    "sigla": "RO",
+    "regione": "Veneto",
+    "giornale": ["rovigoindiretta", "polesine24", "primarovigo", "NaN", "NaN"]
+  },
+  {
+    "nome": "Salerno",
+    "sigla": "SA",
+    "regione": "Campania",
+    "giornale": ["dentrosalerno", "croachesalerno", "cilentonotizie", "NaN", "NaN"]
+  },
+  {
+    "nome": "Sassari",
+    "sigla": "SS",
+    "regione": "Sardegna",
+    "giornale": ["sassarinotizie", "sassarioggi", "sassaripost", "galluraoggi", "olbianotizie"]
+  },
+  {
+    "nome": "Savona",
+    "sigla": "SV",
+    "regione": "Liguria",
+    "giornale": ["ecodisavona", "savonanews", "ecodisavona", "NaN", "NaN"]
+  },
+  {
+    "nome": "Siena",
+    "sigla": "SI",
+    "regione": "Toscana",
+    "giornale": ["corrieredisiena", "oksiena", "sienafree", "NaN", "NaN"]
+  },
+  {
+    "nome": "Siracusa",
+    "sigla": "SR",
+    "regione": "Sicilia",
+    "giornale": ["siracusanews", "siracusaoggi", "libertasicilia", "NaN", "NaN"]
+  },
+  {
+    "nome": "Sondrio",
+    "sigla": "SO",
+    "regione": "Lombardia",
+    "giornale": ["sondriotoday", "primalavaltellina", "laprovinciadisondrio", "NaN", "NaN"]
+  },
+  {
+    "nome": "Sud Sardegna",
+    "sigla": "SU",
+    "regione": "Sardegna",
+    "giornale": ["unionesarda", "lagazzettadelmediocampidano", "provincia.mediocampidano", "NaN", "NaN"]
+  },
+  {
+    "nome": "Taranto",
+    "sigla": "TA",
+    "regione": "Puglia",
+    "giornale": ["quotidianodipuglia", "corriereditaranto", "tarantinitime", "NaN", "NaN"] 
+  },
+  {
+    "nome": "Teramo",
+    "sigla": "TE",
+    "regione": "Abruzzo",
+    "giornale": ["teramonews", "ekuonews", "certastampa", "NaN", "NaN"]
+  },
+  {
+    "nome": "Terni",
+    "sigla": "TR",
+    "regione": "Umbria",
+    "giornale": ["ternitoday", "umbrianews", "ternioggi", "NaN", "NaN"]
+  },
+  {
+    "nome": "Torino",
+    "sigla": "TO",
+    "regione": "Piemonte",
+    "giornale": ["lastampa", "torinooggi", "torinotoday", "iltorinese", "torinosud"]
+  },
+  {
+    "nome": "Trapani",
+    "sigla": "TP",
+    "regione": "Sicilia",
+    "giornale": ["trapanioggi", "tp24", "trapanisi", "NaN", "NaN"]
+  },
+  {
+    "nome": "Trento",
+    "sigla": "TN",
+    "regione": "Trentino-Alto Adige/Südtirol",
+    "giornale": ["trentotoday", "lavocedeltrentino", "ildolomiti", "giornaletrentino", "ladige"]
+  },
+  {
+    "nome": "Treviso",
+    "sigla": "TV",
+    "regione": "Veneto",
+    "giornale": ["trevisotoday", "oggitreviso", "ilgazzettino", "primatreviso", "NaN"]
+  },
+  {
+    "nome": "Trieste",
+    "sigla": "TS",
+    "regione": "Friuli-Venezia Giulia",
+    "giornale": ["ilpiccolo", "triesteprima", "triesteallnews", "triestecafe", "NaN"]
+  },
+  {
+    "nome": "Udine",
+    "sigla": "UD",
+    "regione": "Friuli-Venezia Giulia",
+    "giornale": ["udientoday", "ilfriuli", "udineoggi", "NaN", "NaN"]
+  },
+  {
+    "nome": "Valle d'Aosta/Vallée d'Aoste",
+    "sigla": "AO",
+    "regione": "Valle d'Aosta/Vallée d'Aoste",
+    "giornale": ["valledaostaglocal", "aostasera", "gazzettamatin", "lavalleenotizie", "NaN"]
+  },
+  {
+    "nome": "Varese",
+    "sigla": "VA",
+    "regione": "Lombardia",
+    "giornale": ["varesenews", "laprovinciadivarese", "prealpina", "NaN", "NaN"]
+  },
+  {
+    "nome": "Venezia",
+    "sigla": "VE",
+    "regione": "Veneto",
+    "giornale": ["ilgazzettino", "lavocedivenezia", "veneziatoday", "primavenezia", "NaN"]
+  },
+  {
+    "nome": "Verbano-Cusio-Ossola",
+    "sigla": "VB",
+    "regione": "Piemonte",
+    "giornale": ["nuovaedizione.ecodelverbano", "ossolanews", "vconews", "NaN", "NaN"]
+  },
+  {
+    "nome": "Vercelli",
+    "sigla": "VC",
+    "regione": "Piemonte",
+    "giornale": ["vercellioggi", "primavercelli", "lasesia.vercelli", "NaN", "NaN"]
+  },
+  {
+    "nome": "Verona",
+    "sigla": "VR",
+    "regione": "Veneto",
+    "giornale": ["larena", "veronasera", "giornaleadige", "ilgiornaledeiveronesi", "NaN"]
+  },
+  {
+    "nome": "Vibo Valentia",
+    "sigla": "VV",
+    "regione": "Calabria",
+    "giornale": ["ilvibonese", "lacnews24", "NaN", "NaN", "NaN"]
+  },
+  {
+    "nome": "Vicenza",
+    "sigla": "VI",
+    "regione": "Veneto",
+    "giornale": ["ecovicentino", "vicenzatoday", "ilgiornaledivicenza", "NaN", "NaN"]
+  },
+  {
+    "nome": "Viterbo",
+    "sigla": "VT",
+    "regione": "Lazio",
+    "giornale": ["corrierediviterbo", "ontuscia", "viterbotoday", "NaN", "NaN"]
+  }
+]
